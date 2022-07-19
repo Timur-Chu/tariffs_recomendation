@@ -21,9 +21,10 @@ is_ultra — каким тарифом пользовался в течение 
 
 Наиболее адекватные предсказания делает Random Forest, это видно по точности предсказания на валидационной и на тестовой выборке.
 
-Значения метрики accuracy
+Значения метрики accuracy:
+
 Logistic Regression: 0.76
 
-Random Forest: 0.80
+Random Forest: 0.81
 
-Decision Tree: 0.79
+Decision Tree: 0.80
