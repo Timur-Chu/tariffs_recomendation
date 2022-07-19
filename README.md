@@ -23,7 +23,7 @@ is_ultra — каким тарифом пользовался в течение 
 
 Значения метрики accuracy:
 
-Logistic Regression: 0.76
+Logistic Regression: 0.70
 
 Random Forest: 0.81
 
